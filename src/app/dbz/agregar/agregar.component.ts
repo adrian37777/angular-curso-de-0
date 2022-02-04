@@ -10,7 +10,7 @@ export class agregarComponent {
 
 
   @Input('nuevo') nuevo: Personaje = {
-    nombre: '',
+    nombre: 'Goku',
     poder: 0,
   };
 
